@@ -1,0 +1,2 @@
+This is the simple Api created using by FastApi.
+For you this is easy for learning how Api's actually work you can find out after you code some Api by your hand. 
