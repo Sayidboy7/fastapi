@@ -1,0 +1,8 @@
+This Api layout that you can use your own projects to 
+start build your Api
+-- version: 1.1.2
+-- required packages in requirements.txt
+
+-- Needed frameworks: FastApi, uvicorn, pydantic
+-- AI to help: You know what Ai can help to you.
+
